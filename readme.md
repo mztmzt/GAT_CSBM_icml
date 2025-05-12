@@ -1,5 +1,5 @@
 # README
-This repository contains the experimental code for our paper, "Graph Attention is Not Always Beneficial: A Theoretical Analysis of Graph Attention Mechanisms via CSBMs." (Accepted by International Conference on Machine Learning(ICML) 2025). The `synthetic_experiments` folder includes the code for the synthetic experiments, while the `real_world_experiments` folder contains the code for experiments using three real datasets: Cora, Citeseer, and Pubmed.
+This repository contains the experimental code for our paper, "Graph Attention is Not Always Beneficial: A Theoretical Analysis of Graph Attention Mechanisms via CSBMs." (Accepted by International Conference on Machine Learning (ICML) 2025). The `synthetic_experiments` folder includes the code for the synthetic experiments, while the `real_world_experiments` folder contains the code for experiments using three real datasets: Cora, Citeseer, and Pubmed.
 
 To obtain the results for synthetic experiments 1, 2, and 4, run the following command:
 
